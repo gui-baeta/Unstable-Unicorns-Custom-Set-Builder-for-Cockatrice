@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+	<sets>
+		<set>
+        	<name>Unstable Unicorns Base Set 2nd edition</name>
+        	<longname>Unstable Unicorns Base Set 2nd edition</longname>
+        	<settype>Unstable Unicorns</settype>
+        	<releasedate>2019-11-00</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+            <name>Baby Narwhal UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/9/9b/UU-Base-013-SE.png/644px-UU-Base-013-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Black) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/f/fc/UU-Base-008-SE.png/644px-UU-Base-008-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Blue) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/f/fc/UU-Base-008-SE.png/644px-UU-Base-008-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Brown) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/62/UU-Base-010-SE.png/644px-UU-Base-010-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Death) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/d5/UU-Base-012-SE.png/644px-UU-Base-012-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Green) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/0/0f/UU-Base-005-SE.png/644px-UU-Base-005-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Orange) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/f/f0/UU-Base-003-SE.png/644px-UU-Base-003-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Pink) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/4/40/UU-Base-002-SE.png/644px-UU-Base-002-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Purple) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/a/a0/UU-Base-007-SE.png/644px-UU-Base-007-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Rainbow) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/2/20/UU-Base-011-SE.png/644px-UU-Base-011-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Red) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/9/90/UU-Base-001-SE.png/644px-UU-Base-001-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (Yellow) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/b/b0/UU-Base-004-SE.png/644px-UU-Base-004-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Baby Unicorn (White) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/1/10/UU-Base-009-SE.png/644px-UU-Base-009-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Baby Unicorn	</maintype>
+            <type>Baby Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Basic Unicorn (Blue) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/0/06/UU-Base-018-SE.png/644px-UU-Base-018-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Basic Unicorn	</maintype>
+            <type>Basic Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Popped collars are for date nights only. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Basic Unicorn (Green) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/0/06/UU-Base-017-SE.png/644px-UU-Base-017-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Basic Unicorn	</maintype>
+            <type>Basic Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Vinyl records and mixtapes only. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Basic Unicorn (Indigo) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/65/UU-Base-019-SE.png/644px-UU-Base-019-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Basic Unicorn	</maintype>
+            <type>Basic Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>💖🙌💅🙌💖💁💁😂😂😂 </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Basic Unicorn (Orange) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/66/UU-Base-015-SE.png/300px-UU-Base-015-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Basic Unicorn	</maintype>
+            <type>Basic Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Pumpkin spice is the pumpkin spice of life. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Basic Unicorn (Purple) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/4/4c/UU-Base-020-SE.png/300px-UU-Base-020-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Basic Unicorn	</maintype>
+            <type>Basic Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>#nomakeup #nofilter #sunnies #shameless #selfie #basic #TGIF # unicornhairdontcare </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Basic Unicorn (Red) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/9/90/UU-Base-014-SE.png/300px-UU-Base-014-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Basic Unicorn	</maintype>
+            <type>Basic Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Beards are like, so hot. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Basic Unicorn (Yellow) UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/3/38/UU-Base-016-SE.png/644px-UU-Base-016-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Basic Unicorn	</maintype>
+            <type>Basic Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Dance like nobody's watching. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Narwhal UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/80/UU-Base-021-SE.png/644px-UU-Base-021-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Basic Unicorn	</maintype>
+            <type>Basic Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>This card has no special powers, but it sure is cute! </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Alluring Narwhal UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/2/24/UU-Base-047-SE.png/644px-UU-Base-047-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may STEAL an Upgrade card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Americorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/2/2b/UU-Base-031-SE.png/644px-UU-Base-031-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may pull a card at random from another player's hand. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Annoying Flying Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/1/18/UU-Base-037-02.png/649px-UU-Base-037-02.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may choose any player. That player must DISCARD a card. If this card would be sacrificed or destroyed, return it to your hand instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Black Knight Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/da/UU-Base-043-SE.png/644px-UU-Base-043-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If a Unicorn card in your Stable would be destroyed, you may SACRIFICE this card instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Chainsaw Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/d5/UU-Base-029-SE.png/644px-UU-Base-029-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may DESTROY an Upgrade card or SACRIFICE a Downgrade card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Classy Narwhal UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/2/21/UU-Base-049-SE.png/644px-UU-Base-049-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may search the deck for an Upgrade card and add it to your hand, then shuffle the deck. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Dark Angel Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/61/UU-Base-088-SE.png/642px-UU-Base-088-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may SACRIFICE a Unicorn card, then bring a Unicorn card from the discard pile into your Stable. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Extremely Destructive Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/3/3f/UU-Base-028-SE.png/644px-UU-Base-028-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, each player (including you) must SACRIFICE a Unicorn card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Ginormous Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/f/f3/UU-Base-032-SE.png/644px-UU-Base-032-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>This card counts for 2 Unicorns. You cannot play any Neigh cards. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Greedy Flying Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/61/UU-Base-036-SE.png/644px-UU-Base-036-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, DRAW a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Llamacorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/2/20/UU-Base-030-SE.png/644px-UU-Base-030-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, each player (including you) must DISCARD a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Magical Flying Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/3/31/UU-Base-038-SE.png/644px-UU-Base-038-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may add a Magic card from the discard pile to your hand. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Magical Kittencorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/87/UU-Base-023-SE.png/644px-UU-Base-023-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>This card cannot be destroyed by Magic cards. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Majestic Flying Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/0/0f/UU-Base-040-SE.png/644px-UU-Base-040-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may add a Unicorn card from the discard pile to your hand. If this card is sacrificed or destroyed, return it to your hand. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Mother Goose Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/d1/UU-Base-085-SE.png/644px-UU-Base-085-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may bring a Baby Unicorn card from the Nursery into your Stable. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Mermaid Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/3/3e/UU-Base-048-SE.png/644px-UU-Base-048-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, return a card in another player's Stable to their hand. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Narwhal Torpedo UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/8f/UU-Base-046-SE.png/644px-UU-Base-046-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, SACRIFICE all Downgrade cards in your Stable. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Necromancer Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/4/4b/UU-Base-087-SE.png/644px-UU-Base-087-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may DISCARD 2 Unicorn cards, then bring a Unicorn card from the discard pile into your Stable. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Queen Bee Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/9/9b/UU-Base-035-SE.png/644px-UU-Base-035-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Basic Unicorn cards cannot enter any player's Stable except yours. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Rainbow Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/2/26/UU-Base-026-SE.png/644px-UU-Base-026-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may bring a Basic Unicorn card from your hand into your Stable. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Rhinocorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/0/05/UU-Base-022-SE.png/644px-UU-Base-022-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is in your Stable at the beginning of your turn, you may DESTROY a Unicorn card. If you do, immediately end your turn. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Seductive Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/c/c2/UU-Base-033-SE.png/644px-UU-Base-033-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may DISCARD a card, then STEAL a Unicorn card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Shabby the Narwhal UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/3/3b/UU-Base-045-SE.png/644px-UU-Base-045-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may search the deck for a Downgrade card and add it to your hand, then shuffle the deck. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Shark With a Horn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/c/c2/UU-Base-044-SE.png/644px-UU-Base-044-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may SACRIFICE this card, then DESTROY a Unicorn card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Stabby the Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/60/UU-Base-024-SE.png/644px-UU-Base-024-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is sacrificed or destroyed, you may DESTROY a Unicorn card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Swift Flying Unicorn UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/82/UU-Base-039-SE.png/644px-UU-Base-039-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may add a Neigh card from the discard pile to your hand. If this card is sacrificed or destroyed, return it to your hand. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>The Great Narwhal UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/a/af/UU-Base-050-SE.png/644px-UU-Base-050-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, you may search the deck for a card with "Narwhal" in its name and add it to your hand, then shuffle the deck. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Unicorn on the Cob UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/0/06/UU-Base-042-SE.png/644px-UU-Base-042-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, DRAW 2 cards and DISCARD a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Unicorn Oracle UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/7/7a/UU-Base-086-SE.png/644px-UU-Base-086-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>When this card enters your Stable, look at the top 3 cards of the deck and add one of them to your hand, then return the other two to the top of the deck in any order. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Unicorn Phoenix UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/5/52/UU-Base-041-SE.png/644px-UU-Base-041-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magical Unicorn	</maintype>
+            <type>Magical Unicorn	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card would be sacrificed or destroyed, you may DISCARD a card instead. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Back Kick UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/dd/UU-Base-052-SE.png/644px-UU-Base-052-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Return a card in another player's Stable to their hand. That player must DISCARD a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Blatant Thievery UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/8a/UU-Base-064-SE.png/644px-UU-Base-064-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Look at another player's hand. Choose a card and add it to your hand. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Change of Luck UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/d0/UU-Base-053-SE.png/644px-UU-Base-053-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>DRAW 2 cards and DISCARD 3 cards, then take another turn. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Glitter Tornado UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/68/UU-Base-054-SE.png/644px-UU-Base-054-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Return a card in each player's Stable (including yours) to their hand. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Good Deal UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/b/b2/UU-Base-062-SE.png/644px-UU-Base-062-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>DRAW 3 cards and DISCARD a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Kiss of Life UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/8b/UU-Base-089-SE.png/644px-UU-Base-089-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Bring a Unicorn card from the discard pile into your Stable. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Mystical Vortex UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/5/54/UU-Base-061-SE.png/644px-UU-Base-061-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Each player (including you) must DISCARD a card. Shuffle the discard pile into the deck. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Re-Target UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/1/1a/UU-Base-056-SE.png/644px-UU-Base-056-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Move an Upgrade or Downgrade card from any player's Stable to any other player's Stable. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Reset Button UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/dc/UU-Base-065-SE.png/644px-UU-Base-065-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Each player (including you) must SACRIFICE all Upgrade and Downgrade cards in their Stable. Shuffle the discard pile into the deck. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Shake Up UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/4/4d/UU-Base-063-SE.png/644px-UU-Base-063-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Shuffle this card, your hand, and the discard pile into the deck. DRAW 5 cards. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Targeted Destruction UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/0/0e/UU-Base-060-SE.png/644px-UU-Base-060-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>DESTROY an Upgrade card or SACRIFICE a Downgrade card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Two-For-One UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/e/ec/UU-Base-058-SE.png/644px-UU-Base-058-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>SACRIFICE a card, then DESTROY 2 cards. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Unfair Bargain UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/d2/UU-Base-057-SE.png/644px-UU-Base-057-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Trade hands with any other player. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Unicorn Poison UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/3/30/UU-Base-051-SE.png/644px-UU-Base-051-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>DESTROY a Unicorn card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Unicorn Swap UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/8c/UU-Base-055-SE.png/644px-UU-Base-055-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Magic	</maintype>
+            <type>Magic	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Move a Unicorn card in your Stable to any other player's Stable, then STEAL a Unicorn card from that player's Stable. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Neigh UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/2/25/UU-Base-082-SE.png/644px-UU-Base-082-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Instant	</maintype>
+            <type>Instant	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Play this card when another player tries to play a card. Stop their card from being played and send it to the discard pile. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Super Neigh UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/3/35/UU-Base-083-SE.png/644px-UU-Base-083-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Instant	</maintype>
+            <type>Instant	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Play this card when another player tries to play a card. Stop their card from being played and send it to the discard pile. This card cannot be Neigh'd. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Caffeine Overload UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/a/a1/UU-Base-093-SE.png/644px-UU-Base-093-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Upgrade	</maintype>
+            <type>Upgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is in your Stable at the beginning of your turn, you may SACRIFICE a card, then DRAW 2 cards. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Claw Machine UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/2/21/UU-Base-090-SE.png/644px-UU-Base-090-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Upgrade	</maintype>
+            <type>Upgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is in your Stable at the beginning of your turn, you may DISCARD a card, then DRAW a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Double Dutch UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/b/bf/UU-Base-072-SE.png/644px-UU-Base-072-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Upgrade	</maintype>
+            <type>Upgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is in your Stable at the beginning of your turn, you may play 2 cards during your Action phase. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Glitter Bomb UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/e/e1/UU-Base-068-SE.png/644px-UU-Base-068-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Upgrade	</maintype>
+            <type>Upgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is in your Stable at the beginning of your turn, you may SACRIFICE a card, then DESTROY a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Rainbow Aura UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/d9/UU-Base-071-SE.png/644px-UU-Base-071-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Upgrade	</maintype>
+            <type>Upgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Your Unicorn cards cannot be destroyed. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Rainbow Lasso UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/4/4e/UU-Base-092-SE.png/644px-UU-Base-092-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Upgrade	</maintype>
+            <type>Upgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is in your Stable at the beginning of your turn, you may DISCARD 3 cards, then STEAL a Unicorn card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Stable Artillery UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/8a/UU-Base-091-SE.png/644px-UU-Base-091-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Upgrade	</maintype>
+            <type>Upgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is in your Stable at the beginning of your turn, you may DISCARD 2 cards, then DESTROY a Unicorn card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Yay UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/1/1b/UU-Base-069-SE.png/644px-UU-Base-069-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Upgrade	</maintype>
+            <type>Upgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Cards you play cannot be Neigh'd. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Barbed Wire UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/67/UU-Base-074-SE.png/644px-UU-Base-074-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Downgrade	</maintype>
+            <type>Downgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Each time a Unicorn card enters or leaves your Stable, DISCARD a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Blinding Light UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/d1/UU-Base-080-SE.png/644px-UU-Base-080-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Downgrade	</maintype>
+            <type>Downgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>All of your Unicorn cards are considered Basic Unicorns with no effects. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Broken Stable UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/6/6b/UU-Base-079-SE.png/644px-UU-Base-079-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Downgrade	</maintype>
+            <type>Downgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>You cannot play Upgrade cards. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Nanny Cam UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/8/8f/UU-Base-078-SE.png/644px-UU-Base-078-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Downgrade	</maintype>
+            <type>Downgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>Your hand must be visible to all players. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Pandamonium UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/1/1b/UU-Base-075-SE.png/644px-UU-Base-075-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Downgrade	</maintype>
+            <type>Downgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>All of your Unicorns are considered Pandas. Cards that affect Unicorn cards do not affect your Pandas. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Sadistic Ritual UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/c/cb/UU-Base-076-SE.png/644px-UU-Base-076-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Downgrade	</maintype>
+            <type>Downgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If this card is in your Stable at the beginning of your turn, SACRIFICE a Unicorn card, then DRAW a card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Slowdown UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/d/da/UU-Base-077-SE.png/644px-UU-Base-077-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Downgrade	</maintype>
+            <type>Downgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>You cannot play Neigh cards. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Tiny Stable UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/1/1f/UU-Base-081-SE.png/644px-UU-Base-081-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Downgrade	</maintype>
+            <type>Downgrade	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>If at any time you have more than 5 Unicorns in your Stable, SACRIFICE a Unicorn card. </text>
+            <font></font>
+		</card>
+		<card>
+            <name>Rule Card UU</name>
+            <set picURL="http://unstablegameswiki.com/images/thumb/c/c8/UU-Base-Rules-SE.png/300px-UU-Base-Rules-SE.png"></set>
+            <color></color>
+            <manacost></manacost>
+            <cmc></cmc>
+            <maintype>Rule Card	</maintype>
+            <type>Rule Card	</type>
+            <pt></pt>
+            <tablerow>0</tablerow>
+            <text>https://bigbag.bg/userfiles/editor/file/unstable%20unicorns%20rules.pdf </text>
+            <font></font>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
